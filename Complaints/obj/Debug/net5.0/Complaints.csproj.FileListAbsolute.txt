@@ -1,0 +1,5 @@
+E:\Complaints\Complaints\obj\Debug\net5.0\Complaints.csproj.AssemblyReference.cache
+E:\Complaints\Complaints\obj\Debug\net5.0\Complaints.GeneratedMSBuildEditorConfig.editorconfig
+E:\Complaints\Complaints\obj\Debug\net5.0\Complaints.AssemblyInfoInputs.cache
+E:\Complaints\Complaints\obj\Debug\net5.0\Complaints.AssemblyInfo.cs
+E:\Complaints\Complaints\obj\Debug\net5.0\Complaints.csproj.CoreCompileInputs.cache
